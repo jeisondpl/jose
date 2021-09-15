@@ -1,0 +1,40 @@
+.color-nav {
+  background-color: rgba(17, 39, 60, 1);
+}
+
+.color-sidebar {
+  display: 'flex';
+  background-color: rgba(17, 39, 60, 1);
+  justify-content: 'center';
+  align-items: 'center';
+}
+
+.color-button-invemar {
+  background-color: '#4badf1';
+  color: white;
+}
+
+.color-background1 {
+  background-color: '#0d335f';
+}
+
+.font {
+  color: 'white';
+}
+
+.image-login {
+  /* height: '100vh'; */
+  background-image: url('https://fondosmil.com/fondo/65742.jpg');
+  /* background-image: url('http://dimetilsulfuro.es/wp-content/uploads/2020/07/coral-reefs-2728211.jpg'); */
+
+  background-repeat: 'no-repeat';
+  background-size: 'cover';
+  background-position: 'center';
+  overflow: 'hidden';
+}
+
+.image-login-logo {
+  display: 'flex';
+  justify-content: 'center';
+  align-items: 'center';
+}
